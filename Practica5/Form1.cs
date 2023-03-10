@@ -26,6 +26,8 @@ namespace Practica5
 
         private void botonAceptar_Click(object sender, EventArgs e)
         {
+            textBoxResultado.Text = "";
+                
             int contdedatos = 0;
 
             List<TextBox> lista = new List<TextBox>();
