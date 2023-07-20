@@ -1,0 +1,12 @@
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\bin\Debug\Formulario.exe
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.exe
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Yeppi\Documents\CursoC#nivel2\Winforms\FormularioWinforms\Formulario\obj\Debug\Formulario.VentanaPrincipal.resources
